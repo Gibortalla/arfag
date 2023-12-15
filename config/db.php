@@ -3,7 +3,7 @@
 $host	=	"localhost";
 $user	=	"root";
 $pass	=	"";
-$namadb	=	"mantab";
+$namadb	=	"asli";
 
 $db = mysqli_connect($host, $user, $pass, $namadb);
 
